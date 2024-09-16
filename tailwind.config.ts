@@ -1,5 +1,7 @@
 import type { Config } from 'tailwindcss';
 
+// new branch created
+
 const { fontFamily } = require('tailwindcss/defaultTheme');
 
 const config = {
